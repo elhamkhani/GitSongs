@@ -1,0 +1,16 @@
+F:\Projects\GitSongs\GitSongs\bin\Debug\GitSongs.exe.config
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\amd64\git2-785d8c4.dll
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\amd64\git2-785d8c4.pdb
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\x86\git2-785d8c4.dll
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\x86\git2-785d8c4.pdb
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\osx\libgit2-785d8c4.dylib
+F:\Projects\GitSongs\GitSongs\bin\Debug\NativeBinaries\linux\amd64\libgit2-785d8c4.so
+F:\Projects\GitSongs\GitSongs\bin\Debug\LibGit2Sharp.dll.config
+F:\Projects\GitSongs\GitSongs\bin\Debug\GitSongs.exe
+F:\Projects\GitSongs\GitSongs\bin\Debug\GitSongs.pdb
+F:\Projects\GitSongs\GitSongs\bin\Debug\LibGit2Sharp.dll
+F:\Projects\GitSongs\GitSongs\bin\Debug\LibGit2Sharp.pdb
+F:\Projects\GitSongs\GitSongs\bin\Debug\LibGit2Sharp.xml
+F:\Projects\GitSongs\GitSongs\obj\Debug\GitSongs.csprojResolveAssemblyReference.cache
+F:\Projects\GitSongs\GitSongs\obj\Debug\GitSongs.exe
+F:\Projects\GitSongs\GitSongs\obj\Debug\GitSongs.pdb
